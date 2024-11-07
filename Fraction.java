@@ -1,5 +1,3 @@
-package Java.hw8;
-
 public class Fraction 
 {
     private int num;
