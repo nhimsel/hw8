@@ -24,7 +24,6 @@ public class Fraction
         int gcd = GCD(ans.num, ans.denom);
         ans.num/=gcd; ans.denom/=gcd;
         return ans;
-
     }
     
     public static int GCD(int a, int b)
